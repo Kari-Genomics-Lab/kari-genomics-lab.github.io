@@ -16,4 +16,4 @@ social: false # includes social icons at the bottom of the page
 
 Welcome to the Kari Genomics Lab website!
 
-Our website is still under development, for more information about specific projects, please visit our [github page](https://github.com/Kari-Genomics-Lab/). You can also visit my [personal website](https://cs.uwaterloo.ca/~lila/) for more information. 
+Our website is still under development. For more information about specific projects, please visit our [github page](https://github.com/Kari-Genomics-Lab/). You can also visit my [personal website](https://cs.uwaterloo.ca/~lila/) for more information. 
